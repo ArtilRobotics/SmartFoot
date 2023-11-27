@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CP2102N-A02-GQFN24R")(type "KiCad")(uri "${KIPRJMOD}/lib/USB_Serial_CP2102N/CP2102N/CP2102N-A02-GQFN24R.kicad_sym")(options "")(descr ""))
+  (lib (name "TC164-FR-07270KL")(type "KiCad")(uri "${KIPRJMOD}/lib/ResistorPack_C164-FR-07270KL/TC164-FR-07270KL.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC5225-1.8YM5-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulador_MIC5225-1.8YM5-TR/MIC5225-1.8YM5-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "KMR211NGLFS")(type "KiCad")(uri "${KIPRJMOD}/lib/Pulsador_KMR211/KMR211NGLFS.kicad_sym")(options "")(descr ""))
+  (lib (name "2758")(type "KiCad")(uri "${KIPRJMOD}/lib/NeoPixel_2758/2758.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-20948")(type "KiCad")(uri "${KIPRJMOD}/lib/ICM_20948/ICM-20948/KiCad/ICM-20948.kicad_sym")(options "")(descr ""))
+  (lib (name "200528-0200")(type "KiCad")(uri "${KIPRJMOD}/lib/ConectorSensores_200528-0200/200528-0200/KiCad/200528-0200.kicad_sym")(options "")(descr ""))
+  (lib (name "1769")(type "KiCad")(uri "${KIPRJMOD}/lib/ConectorBateria_JST_PH/1769/KiCad/1769.kicad_sym")(options "")(descr ""))
+)
