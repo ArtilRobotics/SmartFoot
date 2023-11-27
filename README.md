@@ -1,2 +1,2 @@
-# SmartFoot
+# SmartInsole
 hardware y Firmware del proyecto
