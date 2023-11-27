@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MIC5225-1_8YM5-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-25-03:32:28)
+    (mountForm default
+        (footprintRef "SOT95P280X130-5N")
+        (spec "System")
+    )
+)

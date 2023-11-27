@@ -1,0 +1,16 @@
+.ICM-20948 :1 ;IMUs - Inertial Measurement Units World's Lowest Power 9-Axis MEMS MotionTracking Device
+QFN40P300X300X105-25N-D
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="NC_2" 3="NC_3" 4="NC_4" 5="NC_5" 6="NC_6" 7="AUX_CL" 8="VDDIO" 9="SDO / AD0" 10="REGOUT" 11="FSYNC" 12="INT1" 13="VDD" 14="NC_7" 15="NC_8" 16="NC_9" 17="NC_10" 18="GND" 19="RESV_1" 20="RESV_2" 21="AUX_DA" 22="NCS" 23="SCL / SCLK" 24="SDA / SDI" 25="EP"
+*MXP 25
+*DFN ICM-20948
+~!Mouser Part Number (410-ICM-20948)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK-InvenSense/ICM-20948?qs=u4fy%2FsgLU9OtGc31yF%2Friw%3D%3D)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (ICM-20948)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000189-icm-20948-v1.3.pdf)
+~!Height (1.05mm)
+~!3D_Model (ICM-20948)
+ICM-20948
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 
