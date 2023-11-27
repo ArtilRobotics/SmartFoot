@@ -1,9 +1,0 @@
-Manufacturer=Microchip
-PartNumber=MIC5225-1.8YM5-TR
-PartCategory=Integrated Circuit
-PackageCategory=SOT23 (5-Pin)
-PinCount=5
-Version=4.2
-Released=2020-02-03 09:21:11
-Downloaded=2023-11-21 21:13:07
-3D=Y
