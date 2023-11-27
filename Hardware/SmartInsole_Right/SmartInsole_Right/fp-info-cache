@@ -1,8 +1,71 @@
-1701116100874
-200528-0200_FP
-2005280200
-200528-0200-2
-Connector
+16815785471709
+Transistor_Power_Module
+Infineon_AG-ECONO2
+28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979
+igbt diode module
 0
-22
-22
+28
+28
+Transistor_Power_Module
+Infineon_EasyPIM-1B
+35-lead TH, EasyPIM 1B, https://www.infineon.com/dgdl/Infineon-FP10R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43312285a63
+brifge rectifier igbt diode module
+0
+23
+23
+Transistor_Power_Module
+Infineon_EasyPIM-2B
+35-lead TH, EasyPIM 2B, same as ST_ACEPACK-2-CIB, https://www.infineon.com/dgdl/Infineon-FP50R06W2E3-DS-v02_02-EN.pdf?fileId=db3a30431b3e89eb011b455c99987d24
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+Littelfuse_Package_H_XBN2MM
+24-lead TH, Package H, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1215h_xbn2mm_datasheet.pdf.pdf
+brifge rectifier igbt diode module
+0
+24
+24
+Transistor_Power_Module
+Littelfuse_Package_H_XN2MM
+28-lead TH, Package H, same as Infineon_AG-ECONO2, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1225h_xn2mm_datasheet.pdf.pdf
+igbt diode module
+0
+28
+28
+Transistor_Power_Module
+Littelfuse_Package_W_XBN2MM
+24-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1250w_xbn2mm_datasheet.pdf.pdf
+brifge rectifier igbt diode module
+0
+35
+24
+Transistor_Power_Module
+Littelfuse_Package_W_XN2MM
+35-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1275w_xn2mm_datasheet.pdf.pdf
+igbt diode module
+0
+35
+35
+Transistor_Power_Module
+ST_ACEPACK-2-CIB
+35-lead TH, ACEPACK 2 CIB, same as Infineon_EasyPIM-2B, https://www.st.com/resource/en/datasheet/a2c25s12m3.pdf
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+ST_ACEPACK-2-CIB_PressFIT
+35-lead TH, ACEPACK 2 CIB, PressFIT, https://www.st.com/resource/en/datasheet/a2c50s65m2-f.pdf
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+ST_SDIP-25L
+25-lead TH, SDIP-25L, https://www.st.com/resource/en/datasheet/stgips20k60.pdf
+igbt diode module
+0
+25
+25
